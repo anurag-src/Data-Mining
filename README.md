@@ -1,5 +1,4 @@
 # Data Mining Algorithms
-## Assignments CS F415 DM
 
 ### :busts_in_silhouette: The Team
 * Himnish Kapoor
